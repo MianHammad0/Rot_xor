@@ -7,7 +7,7 @@ Rot_X0r is an advanced automated security testing tool for finding **XSS (Cross-
 ## 🛠 Installation
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/Rot_X0r.git
+git clone https://github.com/MianHammad0/Rot_xor.git
 cd Rot_X0r
 ```
 
